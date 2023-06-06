@@ -14,5 +14,4 @@ __pycache__/
 /notebooks
 **/.ipynb_checkpoints/
 
-/3rdparty/NeMo/
 /3rdparty/apex/
